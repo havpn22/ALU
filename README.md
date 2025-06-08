@@ -40,7 +40,7 @@ The ALU architecture includes the following key components:
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `alu_Design.v`        | Main Verilog file that implements the parameterized ALU design. Supports arithmetic and logical operations, including shift, rotate, and signed/unsigned handling. |
 | `alu_testbench.v`     | Testbench to validate the ALU. Applies a variety of test vectors and checks results and status flags.                                                              |
-| `alu_project_doc.pdf` | Detailed documentation of the project including architecture, operation explanation, simulation results, and conclusions.                                          |
+| `ALU project doc.pdf` | Detailed documentation of the project including architecture, operation explanation, simulation results, and conclusions.                                          |
 | `README.md`           | This file. Provides project overview, architecture, file structure, and usage guide.                                                                               |
 | `Coverage Report`     | Simulation coverage report summarizing functional and code coverage achieved during verification.                                                                  |
 
